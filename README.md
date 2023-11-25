@@ -71,3 +71,4 @@ full adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half
 
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
