@@ -60,8 +60,8 @@ Logic symbol & Truthtable
 ### RTL realization:
 half adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/6aed19e5-b55a-4a55-804a-d240073594ca)
 full adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/e2f2db7e-ca41-43c5-a602-b0411b8f9a09)
-### TIMING DIAGRAM
-half adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/e608bc4e-fc70-489b-8e93-ac3d7045f467)
+### TIMING DIAGRAM:
+half adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/e608bc4e-fc70-489b-8e93-ac3d7045f467)       
 full adder![image](https://github.com/dharshan7200/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/138850116/7eba3d8b-563b-4341-97b0-8f5846b07898)
 
 
