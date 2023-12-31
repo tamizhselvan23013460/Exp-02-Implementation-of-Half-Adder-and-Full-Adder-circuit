@@ -35,28 +35,19 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### Program:
-```
 '''
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by:TAMIZHSELVAN B
 RegisterNumber:23013460
 '''
 1.Program to design a half adder:
-module ex3(a,b,sum,carry);
-input a,b;
-output sum,carry;
-assign sum=a^b;
-assign carry=a&b;
-endmodule
 
-1.Program to design a full adder:
-module ex31(a,b,cin,sum,carry);
-input a,b,cin;
-output sum,carry;
-assign sum=a^b^cin;
-assign carry=(a&b)|((a^b)&cin);
-endmodule
-```
+![ha program](https://github.com/tamizhselvan23013460/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150231370/c0f08341-ced4-4e73-a194-48006b0391a9)
+
+2.Program to design a full adder:
+
+![fa program](https://github.com/tamizhselvan23013460/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150231370/15108057-fb8e-402c-b5f4-dbbc3fa864c8)
+
 ### Output:
 ### RTL realization:
 ## HALF ADDER:
